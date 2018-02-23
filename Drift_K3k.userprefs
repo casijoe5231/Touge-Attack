@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HalfPointTrigger.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraStable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HalfPointTrigger.cs" Line="15" Column="33" />
+      <File FileName="Assets\Scripts\LapTimeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LapComplete.cs" Line="43" Column="60" />
+      <File FileName="Assets\Scripts\Countdown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarControlActive.cs" Line="13" Column="60" />
+      <File FileName="Assets\Scripts\LoadLapTime.cs" Line="15" Column="33" />
+      <File FileName="Assets\Scripts\ButtonOptions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ResetTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadLapTime1.cs" Line="23" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
